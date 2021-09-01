@@ -4,4 +4,4 @@ Practice with Git
 - Rechecking token
 - From GitHub
 - From R Studio, again, for last time
-- final check
+- final check, part 2
